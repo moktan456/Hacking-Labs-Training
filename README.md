@@ -1,5 +1,7 @@
 # Ethical Hacking Docker Labs — 5-Phase Edition
 
+> **⚠️ Statutory Warning:** This repository is intended **solely for learning ethical hacking** in isolated, self-contained lab environments. The tools, techniques, and payloads demonstrated here can cause real harm if used against systems you do not own or lack explicit written authorization to test. Unauthorized access to computer systems is illegal under laws such as the Computer Fraud and Abuse Act (US), the Computer Misuse Act (UK), and equivalent statutes elsewhere. The author(s) of this repository are **not responsible** for any misuse, damage, or legal consequences arising from the use of this material outside its intended educational scope. Use responsibly and only on systems you are authorized to test.
+
 Docker-based, self-paced labs for practicing the five phases of ethical hacking:
 **Reconnaissance → Scanning & Enumeration → Gaining Access → Maintaining Access → Covering Tracks.**
 
